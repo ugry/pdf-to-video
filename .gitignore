@@ -1,0 +1,25 @@
+# Input files
+*.pdf
+
+# Generated output
+output/
+output_test/
+debug_output/
+
+# Debug scripts
+debug_image.py
+debug_image2.py
+debug_image3.py
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# HuggingFace cache
+.cache/
+
+# OS
+.DS_Store
